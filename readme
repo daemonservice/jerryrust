@@ -1,0 +1,7 @@
+ gcc callrlib.c -L target/release/ -ljerryrust -o ccallrlib
+ time LD_LIBRARY_PATH=target/release/ ./ccallrlib
+
+
+
+
+ 

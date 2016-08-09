@@ -1,0 +1,10 @@
+[package]
+name = "jerryrust"
+version = "0.1.0"
+authors = ["daemonservice <daemonservice@163.com>"]
+
+[dependencies]
+[lib]
+name = "jerryrust"
+crate-type = ["dylib"]
+
